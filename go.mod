@@ -1,3 +1,3 @@
-module github.com/PayU/fluentBit-sqs-plugin
+module github.com/da-head0/fluentBit-sqs-plugin
 
 go 1.17
