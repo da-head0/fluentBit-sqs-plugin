@@ -1,3 +1,3 @@
 module github.com/da-head0/fluentBit-sqs-plugin
 
-go 1.17
+go 1.14
